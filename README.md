@@ -9,7 +9,7 @@
         <img alt="poshoier@gmail.com" src="https://img.shields.io/badge/poshoier@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:poshoier@gmail.com" />     
        </a>
    <p align="center"> <img src=https://komarev.com/ghpvc/?username=poshoi alt=poshoi /> 
-      <a href="https://github.com/poshoi">
+      <a href="https://github.com/lidao-ltd">
         <img alt="@张高境" src="https://img.shields.io/badge/-组织:lidao-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lidao-ltd/" />     
        </a>
        <a href="https://github.com/poshoi">
