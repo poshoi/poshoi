@@ -29,6 +29,13 @@
 🤭 请在GitHub上见证我的成长吧! </br>
 🤩 如果您愿意一起学习一起分享有用的知识,欢迎加入我们的大家庭 <a href="https://github.com/lidao-ltd"> @lidao-ltd </a> </br>
 </br>
+<details>
+  <summary><b> 💡 2021 目标</b></summary>
+    1. 考上研究生 </br>
+    2. 有个好身体</br>
+    3. 坚持在GitHub上找一些好玩的项目,并落地</br>
+    4. 把Homeassistant中NAS部分整好</br>
+</details>
 </br>
 <a href="https://github.com/poshoi">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=poshoi&theme=tokyonight&show_icons=true&include_all_commits=true" />
