@@ -10,7 +10,7 @@
        </a>
    <p align="center"> <img src=https://komarev.com/ghpvc/?username=poshoi alt=poshoi /> 
       <a href="https://github.com/poshoi">
-        <img alt="@poshoi" src="https://img.shields.io/badge/-组织:lidao-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lidao-ltd/" />     
+        <img alt="@poshoi" src="https://img.shields.io/badge/-organization:lidao-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lidao-ltd/" />     
        </a>
        <a href="https://github.com/poshoi">
           <img src=https://img.shields.io/github/followers/poshoi?style=social> 
