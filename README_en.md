@@ -18,16 +18,16 @@
    </p>
 
 </p>
-<p align="center"><br>-  <a href="README_en.md"> 简体中文 </a>  |  <br>-  English-
+<p align="center"><br>-  <a href="README_en.md"> 简体中文 </a>  |   English  -
 
 
 ## Intro
 
 </br>
-💡 My name is [zhanggaojing(@poshoi)](https://github.com/poshoi) It's stall a lot of hair 'laji' programmer.</br>
+💡 My name is <a href="https://github.com/poshoi"> zhanggaojing(@poshoi) </a>  It's stall a lot of hair 'laji' programmer.</br>
 🐣 Currently engaged in the direction: No </br>
 🤭 Please witness my growth on Github! </br>
-🤩 If you would like to share useful knowledge together, you are welcome to join our family [@lidao-ltd](https://github.com/lidao-ltd) </br>
+🤩 If you would like to share useful knowledge together, you are welcome to join our family <a href="https://github.com/lidao-ltd"> @lidao-ltd </a> </br>
 </br>
 </br>
 <a href="https://github.com/poshoi">
