@@ -1,7 +1,7 @@
 # Hi👋 This is zhanggaojing 👋
 
 <p align="center">
-   <img width="250px"src="https://c-ssl.duitang.com/uploads/item/201702/18/20170218214611_xamfN.thumb.1000_0.jpeg" align="center" alt="zgjpicture"/>
+   <img width="250px"src="xiaoxin.jpeg" align="center" alt="zgjpicture"/>
    <p align="center">zhanggaojing</p>
    <p align="center">Please give me a tearful time💧</p>
    <p align="center"> 
@@ -37,6 +37,10 @@
     4. Complete the NAS part of Homeassistant.</br>
 </details>
 </br>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <a href="https://github.com/poshoi">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=poshoi&theme=tokyonight&show_icons=true&include_all_commits=true" />
 </a>
