@@ -38,7 +38,10 @@
 </details>
 </br>
 </br>
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 <a href="https://github.com/poshoi">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=poshoi&theme=tokyonight&show_icons=true&include_all_commits=true" />
 </a>
@@ -46,7 +49,10 @@
 </br>
 
 <!--START_SECTION:waka-->
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 <!--END_SECTION:waka-->
 
 
