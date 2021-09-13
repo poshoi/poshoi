@@ -37,16 +37,21 @@
     4. Complete the NAS part of Homeassistant.</br>
 </details>
 </br>
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
+</br>
 <a href="https://github.com/poshoi">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=poshoi&theme=tokyonight&show_icons=true&include_all_commits=true" />
 </a>
 </br>
 </br>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
+<!--
 <a href="https://github.com/poshoi">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poshoi&layout=compact" />
 </a>
+-->
+
 

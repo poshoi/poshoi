@@ -37,6 +37,7 @@
     4. 把Homeassistant中NAS部分整好</br>
 </details>
 </br>
+<<<<<<< Updated upstream
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
@@ -117,15 +118,25 @@ JavaScript               1 repo              ███████████�
  Last Updated on 13/09/2021
 <!--END_SECTION:waka-->
 
+=======
+</br>
+>>>>>>> Stashed changes
 <a href="https://github.com/poshoi">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=poshoi&theme=tokyonight&show_icons=true&include_all_commits=true" />
 </a>
 </br>
 </br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
+<!--
 <a href="https://github.com/poshoi">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poshoi&layout=compact" />
 </a>
-
+-->
 
 <!--
 **poshoi/poshoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
