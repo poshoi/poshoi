@@ -37,6 +37,9 @@
     4. 把Homeassistant中NAS部分整好</br>
 </details>
 </br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <a href="https://github.com/poshoi">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=poshoi&theme=tokyonight&show_icons=true&include_all_commits=true" />
 </a>
