@@ -8,6 +8,10 @@
       <a href="mailto:poshoier@gmail.com">
         <img alt="poshoier@gmail.com" src="https://img.shields.io/badge/poshoier@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:poshoier@gmail.com" />     
        </a>
+      <a href="https://www.facebook.com/Poshoier/">
+          <img src=https://img.shields.io/twitter/follow/zhanggaojing?style=social> 
+      </a>
+   
    <p align="center"> <img src=https://komarev.com/ghpvc/?username=poshoi alt=poshoi /> 
       <a href="https://github.com/lidao-ltd">
         <img alt="@张高境" src="https://img.shields.io/badge/-组织:lidao-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lidao-ltd/" />     
