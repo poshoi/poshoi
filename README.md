@@ -15,7 +15,7 @@
        <a href="https://github.com/poshoi">
           <img src=https://img.shields.io/github/followers/poshoi?style=social> 
       </a>
-      <a href="https://https://discord.gg/eFFSN2ubPN">
+      <a href="https://discord.gg/eFFSN2ubPN">
           <img src=https://img.shields.io/discord/718645377921712220> 
       </a>
    </p>
