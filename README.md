@@ -8,7 +8,7 @@
       <a href="mailto:poshoier@gmail.com">
         <img alt="poshoier@gmail.com" src="https://img.shields.io/badge/poshoier@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:poshoier@gmail.com" />     
        </a>
-      <a href="https://www.facebook.com/Poshoier/">
+      <a href="https://twitter.com/zhanggaojing">
           <img src=https://img.shields.io/twitter/follow/zhanggaojing?style=social> 
       </a>
    
