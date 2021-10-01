@@ -18,6 +18,10 @@
       <a href="https://discord.gg/eFFSN2ubPN">
           <img src=https://img.shields.io/discord/718645377921712220> 
       </a>
+      <a href="https://t.me/jingspace">
+          <img src=https://img.shields.io/badge/💬%20Telegram-Channel-blue.svg?style=flat-square> 
+      </a>
+     
    </p>
 
 </p>
