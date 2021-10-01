@@ -11,6 +11,9 @@
       <a href="https://twitter.com/zhanggaojing">
           <img src=https://img.shields.io/twitter/follow/zhanggaojing?style=social> 
       </a>
+       <a href="https://www.facebook.com/Poshoier/">
+          <img src=https://img.shields.io/twitter/url?label=facebook&logo=facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FPoshoier%2F> 
+      </a>
    
    <p align="center"> <img src=https://komarev.com/ghpvc/?username=poshoi alt=poshoi /> 
       <a href="https://github.com/lidao-ltd">
