@@ -65,9 +65,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 146 Contributions in the Year 2021
+> 🏆 147 Contributions in the Year 2021
  > 
-> 📦 41.2 kB Used in Github's Storage 
+> 📦 41.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,8 +104,8 @@ Sunday       19 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        2 hrs               █████████████████████████   99.84% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
+C                        2 hrs               █████████████████████████   99.82% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12% 
 Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
@@ -135,7 +135,7 @@ JavaScript               1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/poshoi/poshoi/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/11/2021
+ Last Updated on 17/11/2021
 <!--END_SECTION:waka-->
 
 <!--
