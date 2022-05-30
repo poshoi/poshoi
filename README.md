@@ -59,7 +59,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2768%20lines%20of%20code-blue)
 
@@ -67,7 +67,7 @@
 
 > 🏆 16 Contributions in the Year 2022
  > 
-> 📦 57.9 kB Used in Github's Storage 
+> 📦 58.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,16 +104,16 @@ Sunday       22 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 hrs 8 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  4 hrs 8 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+daily_leetcode           4 hrs 8 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
@@ -131,7 +131,7 @@ Shell                    1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/poshoi/poshoi/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/05/2022
+ Last Updated on 30/05/2022
 <!--END_SECTION:waka-->
 
 <!--
