@@ -59,7 +59,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2768%20lines%20of%20code-blue)
 
@@ -104,16 +104,16 @@ Sunday       22 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 23 mins       █████████████████████████   100.0%
+Other                    46 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  3 hrs 23 mins       █████████████████████████   100.0%
+Browser                  46 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-daily_leetcode           3 hrs 23 mins       █████████████████████████   100.0%
+daily_leetcode           46 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 23 mins       █████████████████████████   100.0%
+Windows                  46 mins             █████████████████████████   100.0%
 
 ```
 
@@ -131,7 +131,7 @@ Shell                    1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/poshoi/poshoi/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/06/2022
+ Last Updated on 01/07/2022
 <!--END_SECTION:waka-->
 
 <!--
