@@ -104,16 +104,16 @@ Sunday       22 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-daily_leetcode           46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -131,7 +131,7 @@ Shell                    1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/poshoi/poshoi/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/07/2022
+ Last Updated on 02/07/2022
 <!--END_SECTION:waka-->
 
 <!--
